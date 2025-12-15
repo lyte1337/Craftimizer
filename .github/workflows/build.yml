@@ -1,7 +1,8 @@
 name: Build
 
 on:
-  push
+  workflow_dispatch:
+
 
 env:
   PLUGIN_REPO: WorkingRobot/MyDalamudPlugins
