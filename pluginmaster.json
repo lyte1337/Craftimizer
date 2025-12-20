@@ -1,0 +1,29 @@
+[
+    {
+        "Author": "test",
+        "Name": "CraftimizerCN",
+        "Punchline": "test",
+        "Description": "test.",
+        "Changelog": "test",
+        "InternalName": "CraftimizerCN",
+        "AssemblyVersion": "2.8.0.8",
+        "RepoUrl": "https://github.com/InfSein/CraftimizerCN",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs",
+            "utility"
+        ],
+        "DalamudApiLevel": 14,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/InfSein/CraftimizerCN/releases/download/build-31318b7/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/InfSein/CraftimizerCN/releases/download/build-31318b7/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/InfSein/CraftimizerCN/releases/download/build-31318b7/latest.zip",
+        "DownloadCount": 5839,
+        "LastUpdate": "1766199482"
+    },
+]
